@@ -6,7 +6,7 @@ menu:
 rss: /atom.xml
 
 # footer底部显示联系邮箱（在博客配置文件下添加email配置也是一样的效果）
-email: 'youemail@outlook.com'
+email: '微信：W1782376006'
 
 # 内容 Content
 excerpt_link: 继续阅读全文 »
@@ -17,19 +17,19 @@ fancybox: true
 social_title: Follow me
 # Social links 社交链接
 social:
-  github: https://github.com/giscafer
-  weibo: http://weibo.com/laohoubin
-  zhihu: http://www.zhihu.com/people/giscafer
-  email: 'youemail@outlook.com'
+  github: www.shiyinuoche.com
+  weibo: www.shiyinuoche.com
+  zhihu: www.shiyinuoche.com
+  email: ''
 
 # WeChat 微信公众号二维码url
-wechat_url: http://blog.giscafer.com/static/images/qrcode_giscafer.jpg ## 启用wechat widget才会生效
+wechat_url: /images/wechat.jpg ## 启用wechat widget才会生效
 
 
 # Friendly links 友情链接
-links:
-  giscafer's blog: http://blog.giscafer.com
-  GIS520社区: http://www.gis520.com
+# links:
+#   giscafer's blog: http://blog.giscafer.com
+#   GIS520社区: http://www.gis520.com
 
 # 侧边栏 Sidebar，目前仅支持right
 sidebar: right

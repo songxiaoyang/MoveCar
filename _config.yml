@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 时易挪车，一个高效便捷的一站式挪车平台！
-subtitle: 时易挪车
+title: 时易挪车
+subtitle: 时易挪车,一键挪车平台！
 description: 时易挪车
 keywords: 时易挪车
 author: John Doe
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: cafe
+theme: matery
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

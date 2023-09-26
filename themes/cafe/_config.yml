@@ -6,7 +6,7 @@ menu:
 rss: /atom.xml
 
 # footer底部显示联系邮箱（在博客配置文件下添加email配置也是一样的效果）
-email: <a href="https://beian.miit.gov.cn/" target="_blank">赣ICP备2022002565号-3</a >
+email: 
 
 # 内容 Content
 excerpt_link: 继续阅读全文 »
